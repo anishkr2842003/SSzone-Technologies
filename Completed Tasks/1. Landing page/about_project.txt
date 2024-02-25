@@ -1,0 +1,52 @@
+Project Scope: Camping and Adventure Website
+
+Introduction:
+The project aims to create a comprehensive website catering to camping and adventure enthusiasts. The website will offer a platform for users to explore various camping gear, services, and experiences, providing a seamless online experience for planning and booking outdoor adventures.
+
+Objectives:
+1. To create a user-friendly website for camping and adventure enthusiasts.
+2. To provide detailed information about camping gear and services offered.
+3. To showcase different types of camping experiences through a portfolio section.
+4. To enable users to get in touch with the company for inquiries and bookings.
+5. To ensure the website is responsive and accessible across different devices.
+
+Features:
+1. Home Page:
+   - Introduction to the website and its offerings.
+   - Call-to-action buttons for exploring services and contacting the company.
+
+2. Services Section:
+   - Detailed information about various camping gear and services.
+   - High-quality images and descriptions for each service.
+
+3. Portfolio Section:
+   - Showcase different types of camping experiences through images and descriptions.
+   - Highlight unique features and attractions of each camping experience.
+
+4. About Us Section:
+   - Company's story, mission, vision, and team members.
+   - Detailed information about the company's values and goals.
+
+5. Contact Us Section:
+   - Contact information including address, email, and phone number.
+   - Contact form for users to submit inquiries and messages.
+
+6. Footer:
+   - Copyright information and links to other parts of the website.
+
+7. Responsive Design:
+   - Ensure the website is accessible and user-friendly across devices (desktop, tablet, mobile).
+
+8. Navigation:
+   - Easy navigation through various sections of the website.
+
+
+Deliverables:
+1. Fully functional website with all specified features and sections.
+2. Responsive design that works seamlessly across devices.
+3. User-friendly interface with easy navigation and intuitive layout.
+
+Assumptions and Constraints:
+1. The project will be developed using HTML & CSS.
+2. High quality content (images, text) for the website.
+

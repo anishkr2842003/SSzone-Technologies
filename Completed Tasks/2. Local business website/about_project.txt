@@ -1,0 +1,32 @@
+Project Scope: Local Business Website for Gown Sales
+
+Introduction: This website was designed to sell gowns online. The focus is on creating a home page that is user-friendly and responsive across all devices.
+
+Objectives:
+1. Develop a user-friendly platform for gown sales.
+2. Provide comprehensive product information.
+3. Display a variety of gown styles.
+4. Ensure the website is responsive and accessible on different devices.
+
+Features:
+1. Home Page:
+   - Overview of the website and its services.
+   - Call-to-action buttons for browsing and contacting the company.
+
+2. User Registration:
+   - Secure user registration for better service.
+   - Secure storage of user information for delivery purposes.
+
+3. Responsive Design:
+   - Ensure the website is accessible and user-friendly on desktops, tablets, and mobile devices.
+
+Deliverables:
+1. Responsive design for seamless browsing on all devices.
+2. User-friendly interface with intuitive navigation.
+
+Assumptions and Constraints:
+1. The project will be developed using HTML & CSS.
+2. High-quality content (images, text) will be provided for the website.
+
+Mockup Design:
+- A mockup design has already been created using Figma, and the Figma file has been attached to the folder.

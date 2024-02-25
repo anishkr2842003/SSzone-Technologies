@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI";
+}
+
+:root {
+  --main-color: #e6c744;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --second-color: #c2c8da;
+}
+
+.main {
+  width: 100%;
+  height: auto;
+}
+
+nav {
+  margin-left: 100px;
+  margin-right: 100px;
+  /* margin-top: 50px; */
+  margin-bottom: 50px;
+  /* border: solid; */
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.brand-name {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI";
+  gap: 10px;
+}
+
+.brand-name h2 {
+  font-size: 40px;
+}
+
+.link {
+  width: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.link a {
+  text-decoration: none;
+  color: var(--black-color);
+  font-size: 22px;
+  font-family: "Segoe UI";
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+.link a:hover {
+  border-bottom: 5px solid var(--main-color);
+}
+
+.link button {
+  width: 135px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: var(--black-color);
+  color: var(--white-color);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.hero {
+  height: 550px;
+  margin-right: 100px;
+  margin-left: 100px;
+  /* border: solid; */
+  background-color: #f4f6f5;
+  border-radius: 59px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.photo {
+  width: 50%;
+  height: 100%;
+  /* border: solid red; */
+  overflow: hidden;
+}
+
+.text {
+  width: 50%;
+  height: 100%;
+  /* border: solid yellow; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.text h1 {
+  font-size: 50px;
+}
+
+.highlight {
+  background-color: var(--main-color);
+}
+
+.text p {
+  font-size: 32px;
+  font-weight: 400;
+  padding: 50px;
+}
+
+.text button {
+  width: 135px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: var(--black-color);
+  color: var(--white-color);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.brand {
+  width: 100%;
+  height: 100px;
+  background-color: var(--main-color);
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.arrival {
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 100px;
+  /* border: solid; */
+  display: flex;
+  gap: 20px;
+}
+
+.heading {
+  padding-left: 100px;
+  padding-right: 100px;
+  height: 70px;
+  position: relative;
+}
+
+.heading h1 {
+  font-size: 35px;
+  position: absolute;
+  z-index: 2;
+}
+
+.leaf {
+  position: absolute;
+  top: 15px;
+  left: 200px;
+  z-index: 1;
+}
+
+.arv-card {
+  width: 484px;
+  height: auto;
+  /* border: solid red; */
+}
+
+.arv-img {
+  width: 100%;
+  height: 720px;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.5s ease;
+}
+
+.arv-img img {
+  width: 100%;
+  height: 720px;
+  border-radius: 10px;
+  transition: 0.5s ease;
+}
+
+.arv-img img:hover {
+  scale: 1.1;
+}
+
+.arv-img:hover {
+  border-radius: 0;
+}
+
+.arv-text {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text2 h2 {
+  font-size: 32px;
+  color: var(--black-color);
+}
+
+.text2 h4 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #7f7f7f;
+}
+
+.payday {
+  width: 100%;
+  /* border: solid; */
+  background-color: var(--main-color);
+  display: flex;
+}
+
+.payday-left {
+  width: 50%;
+  height: fit-content;
+}
+
+.payday-left img {
+  width: 100%;
+}
+
+.payday-right {
+  width: 50%;
+}
+
+.heading2 {
+  margin-top: 30px;
+}
+
+.youngs-favourite {
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 100px;
+  /* border: solid; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.young-card {
+  overflow: hidden;
+  width: 640px;
+}
+
+.young-card img {
+  width: 100%;
+}
+
+.social-media {
+  height: 200px;
+  width: 100%;
+  background-color: #e6c744;
+}
+
+.social-media i {
+  font-size: 50px;
+}
+
+.new {
+  height: 500px;
+  width: 100%;
+  background-color: #e6c744;
+}
+
+progress[value~="80"] {
+  background-color: red;
+  /* color: red; */
+}

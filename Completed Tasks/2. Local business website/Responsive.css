@@ -1,0 +1,52 @@
+@media only screen and (max-width: 500px) {
+  .link {
+    display: none;
+  }
+  .hero {
+    width: 100%;
+    margin: 10px;
+    padding: 0;
+    overflow: hidden;
+  }
+  .photo img {
+    width: 100%;
+  }
+
+  .text h1 {
+    font-size: 35px;
+  }
+
+  .text p {
+    font-size: 25px;
+  }
+  .text button {
+    width: 80%;
+  }
+
+  .arrival {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .arv-card {
+    width: 100%;
+  }
+
+  .payday-right .text button {
+    width: 150%;
+    margin-bottom: 10px;
+  }
+
+  .youngs-favourite {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .young-card {
+    width: 100%;
+  }
+
+  .brand {
+    display: none;
+  }
+}
